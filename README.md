@@ -4,10 +4,6 @@
 
 - 🔭 I’m currently working on [CTM](link..)
 
-- 🌱 I’m currently learning **ENG**
-
-- 👯 I’m looking to collaborate on [Yeswebook](link)
-
 - 📫 How to reach me **hoai.nart.dev@gmail.com**
 
 - 📄 Know about my experiences [hoai](hoai)
