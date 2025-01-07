@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hoai</h1>
-<h3 align="center">A passionate frontend developer from Viet Nam</h3>
+<h3 align="center">A passionate full-stack developer from Viet Nam</h3>
 
 - 🔭 I’m currently working on [CTM](link..)
 
