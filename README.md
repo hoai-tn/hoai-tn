@@ -1,12 +1,12 @@
-
 <h1 align="center">Hi 👋, I'm Hoai</h1>
 <h3 align="center">A passionate full-stack developer from Viet Nam</h3>
 
-- 🔭 I’m currently working on [CTM](link..)
+- 📫 How to reach me: **hoai.nart.dev@gmail.com**
 
-- 📫 How to reach me **hoai.nart.dev@gmail.com**
+- 📄 Know about my experiences: [hoai](hoai)
 
-- 📄 Know about my experiences [hoai](hoai)
+- 💼 Check out my Upwork profile: [Hoai's Upwork Profile](https://www.upwork.com/freelancers/~01d124102c4262bfad?mp_source=share)
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -27,24 +27,15 @@ Here's the sorted list according to your request:
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
   </a>
-  <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" alt="Nuxt.js" width="40" height="40"/>
-  </a>
 </div>
 
 ## Backend
-<div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 20px; display: flex; flex-wrap: wrap;">
+<div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 20px; display: flex; flex-wrap: wrap; align-items:center; gap: 0 10px ">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="Dotnet" width="40" height="40"/>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="color:white; font-size: 20px">
+  Express.js
   </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
@@ -52,7 +43,7 @@ Here's the sorted list according to your request:
 </div>
 
 ## Databases
-<div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 20px; display: flex; flex-wrap: wrap;">
+<div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 20px; display: flex; flex-wrap: wrap; gap:0 10px">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
@@ -65,7 +56,7 @@ Here's the sorted list according to your request:
 </div>
 
 ## Tools
-<div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 20px; display: flex; flex-wrap: wrap;">
+<div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 20px; display: flex; flex-wrap: wrap; gap: 0 10px">
   <a href="https://jestjs.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/>
   </a>
