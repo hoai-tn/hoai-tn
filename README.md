@@ -14,7 +14,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-Here's the sorted list according to your request:
 
 ## Frontend
 <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 20px; display: flex; flex-wrap: wrap;">
