@@ -5,10 +5,6 @@
 
 - 💼 Check out my Upwork profile: [Hoai's Upwork Profile](https://www.upwork.com/freelancers/~01d124102c4262bfad?mp_source=share)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 
 ## Frontend
