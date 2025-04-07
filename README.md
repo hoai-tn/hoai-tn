@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hoai</h1>
-<h3 align="center">A passionate full-stack developer from Viet Nam</h3>
+<h3 align="center">A passionate developer from Viet Nam</h3>
 
 - 📫 How to reach me: **hoai.nart.dev@gmail.com**
 
