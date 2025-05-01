@@ -75,11 +75,11 @@ I'm a passionate developer who loves building robust and scalable applications. 
 </div>
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hoai-tn&show_icons=true&theme=radical)
 
 ### 🌟 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hoai-tn&layout=compact&theme=radical)
 
 ---
-⭐️ From [Hoai](https://github.com/your-username)
+⭐️ From [Hoai](https://github.com/hoai-tn)
 
