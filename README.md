@@ -1,6 +1,6 @@
 # Hi 👋, I'm Hoai
 
-## 🚀 Full Stack Developer from Vietnam
+## 🚀 Web Developer from Vietnam
 
 I'm a passionate developer who loves building robust and scalable applications. With expertise in both frontend and backend technologies, I create seamless user experiences and efficient server-side solutions.
 
@@ -76,9 +76,6 @@ I'm a passionate developer who loves building robust and scalable applications. 
 
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hoai-tn&show_icons=true&theme=radical)
-
-### 🌟 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hoai-tn&layout=compact&theme=radical)
 
 ---
 ⭐️ From [Hoai](https://github.com/hoai-tn)
