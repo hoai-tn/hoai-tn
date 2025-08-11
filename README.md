@@ -77,6 +77,8 @@ I'm a passionate developer who loves building robust and scalable applications. 
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hoai-tn&show_icons=true&theme=radical)
 
+![](https://raw.githubusercontent.com/hoai-tn/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/hoai-tn/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ---
 ⭐️ From [Hoai](https://github.com/hoai-tn)
 
