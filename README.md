@@ -6,7 +6,7 @@ I'm a passionate developer who loves building robust and scalable applications. 
 
 ### 📫 Connect with me
 - Email: **hoai.nart.dev@gmail.com**
-- Upwork: [View my Upwork Profile](https://www.upwork.com/freelancers/~01d124102c4262bfad?mp_source=share)
+<!-- - Upwork: [View my Upwork Profile](https://www.upwork.com/freelancers/~01d124102c4262bfad?mp_source=share) -->
 
 ### 💻 Tech Stack
 
