@@ -4,10 +4,6 @@
 
 I'm a passionate developer who loves building robust and scalable applications. With expertise in both frontend and backend technologies, I create seamless user experiences and efficient server-side solutions.
 
-### 📫 Connect with me
-- Email: **hoai.nart.dev@gmail.com**
-<!-- - Upwork: [View my Upwork Profile](https://www.upwork.com/freelancers/~01d124102c4262bfad?mp_source=share) -->
-
 ### 💻 Tech Stack
 
 #### Frontend Development
